@@ -30,6 +30,7 @@
   "dependencies": {
     "boom": "2.x.x",
     "cryptiles": "2.x.x",
+    "debug": "^2.2.0",
     "hoek": "2.x.x",
     "joi": "6.x.x",
     "wreck": "6.x.x"
